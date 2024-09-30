@@ -22,7 +22,6 @@
 
 ![demo] ![Screenshot_2024-09-30_12_34_04](https://github.com/user-attachments/assets/35e6bc34-8166-41f4-b8df-7b053c86cff0)
 
-)
 
 ### Features:
 
