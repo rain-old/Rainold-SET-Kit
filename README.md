@@ -20,7 +20,8 @@
 
 </p>
 
-![demo](screen1.png)
+![demo](![Screenshot_2024-09-30_12_34_04](https://github.com/user-attachments/assets/c51b8c60-f9a2-4097-ae56-693e8a87f9f4)
+)
 
 ### Features:
 
