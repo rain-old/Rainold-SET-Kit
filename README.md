@@ -20,7 +20,8 @@
 
 </p>
 
-![demo](![Screenshot_2024-09-30_12_34_04](https://github.com/user-attachments/assets/c51b8c60-f9a2-4097-ae56-693e8a87f9f4)
+![demo] ![Screenshot_2024-09-30_12_34_04](https://github.com/user-attachments/assets/35e6bc34-8166-41f4-b8df-7b053c86cff0)
+
 )
 
 ### Features:
