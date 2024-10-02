@@ -8,6 +8,6 @@ def banner():
       os.system("cls")
     else:
       os.system("clear")
-    print(Fore.CYAN+" STARTING GAMKERSET-TOOL KIT")
+    print(Fore.CYAN+" STARTING HARLYXGIT-TOOL KIT")
 
 banner()
