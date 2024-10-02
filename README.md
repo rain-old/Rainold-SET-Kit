@@ -76,7 +76,7 @@
 - Personal host (direct admin and cPanel)
   <br>
 
-### Installation On Kali Linux
+### Installation On Kali Linux / Termux
 
 ```bash
 
